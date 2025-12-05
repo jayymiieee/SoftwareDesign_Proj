@@ -1,2 +1,2 @@
 # SoftwareDesign_Proj
-Web Application Based for Online Stores
+This project is a web-based application designed to support online store operations, providing features for product management, user interaction, and seamless transaction handling. Built using the FERN Stack (Firebase, Express.js, React, and Node.js), the system delivers a responsive and efficient platform for both customers and administrators. Its architecture ensures real-time data updates, secure authentication, and a scalable structure that can accommodate growing business demands. The application aims to streamline online selling processes while offering a modern, user-friendly shopping experience.
